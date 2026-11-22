@@ -1,2 +1,7 @@
 streamlit
 pandas
+scikit-learn
+pypdf
+pymupdf
+pytesseract
+pillow
